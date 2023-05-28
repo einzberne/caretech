@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'util.dart';
-import 'ForgetPassword.dart';
+import './ForgetPassword/ForgetPassword.dart';
 
 void main() {
-  runApp(NewPassword());
+  runApp(ForgetPassword());
 }
